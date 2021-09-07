@@ -1,0 +1,44 @@
+<div class="mainBlock">
+  <div class="container mainContainer">
+    <!-- <div class="row mainRow"> -->
+      <div class="col-xl mainColumn">
+        <form class="infoForm" [formGroup]="infoForm" (ngSubmit)="submitForm()">
+          <div class="form-group">
+            <input type="email" class="form-control" placeholder="Email*" [formControl]="email">
+            <!-- <error *ngIf="email.errors?.required">
+              This field cannot be empty.
+            </error> -->
+            <error *ngIf="email.errors?.pattern">
+              Enter correct email.
+            </error>
+            <!-- <error *ngIf="email.hasError('notTest')">
+              Please enter only english letters
+            </error> -->
+          </div>
+          <div class="form-group">
+            <input type="text" class="form-control" placeholder="Full name*" [formControl]="name">
+            <error *ngIf="name.hasError('notTest')">
+              Please enter only english letters
+            </error>
+          </div>
+          <div class="form-group">
+            <input type="text" class="form-control" placeholder="Ethereum address*" [formControl]="address">
+            <error *ngIf="address.hasError('notTest')">
+              Please enter only english letters
+            </error>
+          </div>
+          <div class="form-group">
+            <input type="text" class="form-control" placeholder="Country of Residence*" [formControl]="country">
+            <error *ngIf="country.hasError('notTest')">
+              Please enter only english letters
+            </error>
+          </div>
+
+          <button type="submit" class="infoBtn" [disabled]="!infoForm.valid">Submit</button>
+        </form>
+      </div>
+    <!-- </div> -->
+  </div>
+</div>
+
+

@@ -1,0 +1,153 @@
+{
+  "header": {
+    "email": "Subscribe to receive NFT news",
+    "subscribeBtn": "S'abonner",
+    "signUp": "S'inscrire",
+    "logIn": "Connexion"
+  },
+  "footer": {
+    "logoText": "Un Membre associé de",
+    "link1": "À propos",
+    "link2": "Livre blanc",
+    "link3": "Contacts"
+  },
+  "headBlock": {
+    "section": "PROCHAINEMENT...",
+    "headTitle": "FAITES PARTIE DU PATRIMOINE PHILATÉLIQUE AGE OLD ET ART DANS LE MONDE DE LA CRYPTO",
+    "headText": "TIMBRES ET NFT : COLLECTER, ÉCHANGER, RIVALISER ET GAGNER DES RÉCOMPENSES"
+  },
+  "collectBlock": {
+    "section": "COLLECTIONNEZ",
+    "collectTitleFirst": "DES VARIATIONS D'ART",
+    "collectTitleSecond": "ET ORGANISÉES DE TIMBRES-POSTE TRADITIONNELS ET DE MOTIFS ARTISTIQUES PRODUITS EN COLLABORATION AVEC UNE VARIÉTÉ D'ARTISTE",
+    "collectTitleThird": "POUR PRODUIRE LES TIMBRES CRYPTOGRAPHIQUES NUMÉRIQUES ET LES CHEFS-D’ŒUVRE D’ART",
+    "spanFirst": "CRYPTOGRAPHIQUES SOUS LICENCE OFFICIELLE",
+    "spanSecond": "ET DE CONCEPTEURS NUMÉRIQUES",
+    "collectInfoFirst": "passionnez-vous avec des chefs-d’œuvre en live et interactifs de timbres et de motifs d’art déjà existants",
+    "collectInfoSecond": "collectez des NFT sous licence officielle",
+    "collectInfoThird": "partagez votre enthousiasme avec la communauté mondiale des collectionneurs de timbres et d’art NFT",
+    "collectInfoFourth": "soutenez vos artistes et créateurs préférés"
+  },
+  "digitalOwnershipBlock": {
+    "section":"VÉRITABLE PROPRIÉTÉ NUMÉRIQUE, AUTHENTICITÉ ET RARETÉ",
+    "digitalOwnershipTitle":"TOUS LES NFT FRAPPÉS SUR LE STAMPDAQ SONT",
+    "digitalOwnershipTitleSecond":"STRUCTURE À 5 NIVEAUX DE RARETÉ",
+    "digitalOwnershipSpan":"EN ÉDITION LIMITÉE ET NE COMPRENNENT QU’UNE"
+  },
+  "tradeBlock": {
+    "section": "TRANSACTION",
+    "tradeTitleFirst": "OÙ LA",
+    "tradeTitleSecond": "RÉPOND AU POUVOIR ET À LA DYNAMIQUE DES FONCTIONS DE",
+    "spanFirst": "PASSION DE LA COLLECTE",
+    "spanSecond": "COMMERCE FINANCIER",
+    "tradeInfoFirst": "Algorithme d’appariement de prix authentique augmentant la probabilité d’une transaction réussie",
+    "tradeInfoSecond": "Frais de transaction flexibles concurrentiels",
+    "tradeInfoThird": "Aucun frais de gaz",
+    "tradeInfoFourth": "Exécution transparente des transactions"
+  },
+  "playBlock": {
+    "section": "JOUER",
+    "playTitleFirst": "PARTICIPEZ AU JEU STAMPSDAQ ET GAGNEZ",
+    "playTitleSecond": "ET UN STATUT DE CONCOURS",
+    "spanFirst": "DES RÉCOMPENSES",
+    "playInfoTitleFirst": "CONCOURS DE COLLECTE",
+    "playInfoTitleSecond": "JEU-QUESTIONNAIRE SUR LES TIMBRES",
+    "playInfoTitleThird": "CONCOURS DE COMMERÇANTS",
+    "playInfoTitleFourth": "BATAILLES DE TIMBRES",
+    "playInfoFirst": "Faites tout pour que votre collection soit la meilleure et gagnez les récompenses les plus élevées",
+    "playInfoSecond": "Testez vos capacités mentales pour répondre à des questions intellectuelles et soyez récompensé",
+    "playInfoThird": "Faites du commerce et devenez le meilleur commerçant en termes de volume de commerce ou de profit",
+    "playInfoFourth": "Rivalisez avec d’autres collectionneurs 1 à 1 et devenez le gagnant ultime"
+  },
+  "earnBlock": {
+    "section": "GAGNER",
+    "earnTitleFirst": "OBTENEZ RÉGULIÈREMENT DES",
+    "earnTitleSecond": "GRÂCE À LA POSSESSION DE TIMBRES ET D’ŒUVRES D’ART NFT À RENDEMENT ÉLEVÉ",
+    "spanFirst": "RÉCOMPENSES DE TOKENS",
+    "earnText": "Repérez et investissez dans les timbres et les œuvres d’art NFT les plus performants pour obtenir des récompenses",
+    "earnTextSmall": "selon les critères suivants:",
+    "playEarnFirst": "les nft les plus activement négociés",
+    "playEarnSecond": "performance économique du pays émetteur et de l’administration postale"
+  },
+  "banerBlock": {
+    "banerText": "STAMPSDAQ",
+    "is": "EST",
+    "span": "Blockchain"
+  },
+  "tokenImgBack": {
+    "tokenInfoFirst": "Nous utilisons la sidechain décentralisée Preuve de participation (PoS) Ethereum et créons un pont vers le réseau principal Ethereum",
+    "tokenInfoSecond": "Le token de gaz et de paiement est $POST et il est lié 1:1 à DAI sur le réseau principal Ethereum",
+    "tokenInfoThird": "Le second jeton $STAMP est utilisé pour la protection du protocole et la gouvernance du protocole",
+    "tokenInfoFourth": "Nous déployons des contrats intelligents et une place de marché NFT",
+    "tokenInfoFifth": "La sidechain est ouverte à la participation et compatible avec EVM (Ethereum Virtual Machine) et les outils de développement Ethereum communs",
+    "tokenInfoSixth": "Le consensus du réseau est maintenu par les nœuds ; le jalonnement nécessite un certain montant de $STAMP",
+    "sectionSecond":"STRUCTURE DES TOKENS STAMPSDAQ",
+    "tokenTitle":"STAMPSDAQ BLOCKCHAIN UTILISE UNE APPROCHE À DOUBLE TOKEN",
+    "tokenTextFirst":"token de cryptomonnaie, conçu pour éviter la volatilité du prix par rapport à l’USD et sécuriser des transactions transparentes et bon marché",
+    "tokenTextSecond":"token de cryptomonnaie utilisé pour le jalonnement (validation des transactions sur STAMPSDAQ)"
+  },
+  "stakingBlock": {
+    "section": "JALONNEMENT $STAMP",
+    "stakingTitleFirst": "LES PROPRIÉTAIRES DE TOKEN DE JALONNEMENT DE STAMPSDAQ $STAMP PEUVENT GRANDEMENT BÉNÉFICIER DE L’ACTIVITÉ D'EXPLOITATION NŒUD",
+    "stakingInfo1": "Nombre total de tokens",
+    "stakingInfo2": "Nombre initial de tokens",
+    "stakingInfo3": "Calendrier d’émissions linéaire pour",
+    "stakingInfo4": "Nombre annuel de tokens frappés",
+    "stakingInfo5": "Nœud de consensus collatéral",
+    "stakingInfo6": "Récompense de frappe du nœud de consensus - Part de la monnaie annuelle pour les",
+    "stakingInfo7": "Récompenses du nœud de consensus - Part des",
+    "stakingInfo8": "revenus tirés des frais de transaction",
+    "stakingInfo9": "NFT",
+    "year": "ans"
+  },
+  "contactUsBlock": {
+    "contactUsTitle": "ABONNEZ-VOUS ET RECEVEZ DES NOUVELLES PASSIONNANTES ET DES MISES À JOUR SUR LA VENTE COMMUNAUTAIRE $STAMP À VENIR",
+    "email": "E-mail",
+    "subscribe": "S'abonner",
+    "contactUsText": "ÉCRIVEZ-NOUS POUR PLUS D’INFORMATIONS SUR $STAMPS",
+    "contactUsBtn": "Nous contacter"
+  },
+  "partnersBlock": {
+    "section": "POUR NOS PARTENAIRES DE CONTENU",
+    "partnersTitle": "ADMINISTRATIONS POSTALES, MUSÉES PUBLICS ET PRIVÉS ET ARTISTES INDÉPENDANTS",
+    "partnersInfoSpan1": "Monétisez",
+    "partnersInfoSpan2": "Capturez",
+    "partnersInfoSpan3": "Promouvez",
+    "partnersInfoSpan4": "Générez",
+    "partnersInfoSpan5": "Communiquez",
+    "partnersInfoSpan6": "Tirez parti",
+    "partnersInfoSpan7": "génèrent des revenus plus élevés",
+    "partnersInfoSpan8": "Influencez positivement",
+    "partnersInfoText1": "des millions de timbres-poste et de motifs artistiques uniques",
+    "partnersInfoText2": "les intérêts de collecte avec la valeur de collecte, de négociation et de jeu de STAMPSDAQ",
+    "partnersInfoText3": "globalement les valeurs philatéliques et culturelles de chaque pays d’une façon innovante",
+    "partnersInfoText4": "des revenus des ventes primaires et secondaires",
+    "partnersInfoText5": "instantanément et de manière rentable avec une communauté de collectionneurs NFT en pleine expansion",
+    "partnersInfoText6": "d’une approche blockchain unifiée pour accroître la liquidité du marché",
+    "partnersInfoText7": "Les timbres et les œuvres d’art NFT se vendent plus rapidement et",
+    "partnersInfoText8": "les ventes de timbres-poste traditionnels et d'œuvres d'art"
+  },
+  "investorsBlock": {
+    "section": "POUR LES INVESTISSEURS",
+    "investorsTitle": "NOUS ACCUEILLONS LES FONDS DE CAPITAL DE RISQUE ET LES INVESTISSEURS PROVIDENTIELS POUR DISCUTER DES POSSIBILITÉS D’INVESTISSEMENT AVEC STAMPSDAQ",
+    "investorsBtn": "Nous contacter"
+  },
+  "flagBlock": {
+    "flagTitleFirst": "STAMPSDAQ.COM A RÉUNI LA CRYPTO PHILATÉLIE ET LA MARKETPLACE ART BLOCKCHAIN POUR",
+    "flagTitleSecond": "CULTURELLES",
+    "flagTitleSpan": "LES COMMUNAUTÉS POSTALES ET"
+  },
+  "aboutUs": {
+    "aboutTitle": "QUI SOMMES-NOUS ?",
+    "aboutText1": "STAMPSDAQ est une sidechain basée sur la blockchain Ethereum pour la création, la collecte, l'échange",
+    "aboutText2": "Cela réuni également les administrations postales mondiales, aux côtés de tous les collectionneurs de timbres et d'art « anciens et nouveaux » et les passionnés de crypto sur une marketplace blockchain unifiée et sécurisée.",
+    "aboutText3": "Chaque utilisateur de STAMPSDAQ peut collecter, échanger, gagner des récompenses et jouer en utilisant les NFT émis sur notre blockchain, sous une",
+    "aboutText4": "qui permet à chacun de maximiser l'expérience utilisateur sur STAMPSDAQ.",
+    "aboutText5": "Les acteurs de l’industrie de la poste et de l’industrie des arts ont la possibilité de monétiser leurs actifs « dormants » en matière de droits de propriété intellectuelle (DPI) via la technologie blockchain émergente sur les marchés primaire et secondaire, grâce à des contrats intelligents automatisés garantissant des redevances permanentes et d’autres avantages de l’écosystème blockchain.",
+    "aboutTextColor1": "et le jeu de variétés d’art numérique de timbres-poste existants et des motifs d’œuvres d’art sous forme de tokens NFT.",
+    "aboutTextColor2": "formule de proposition de valeur commune,",
+    "aboutTextBig": "Téléchargez notre livre blanc pour avoir une meilleure idée de ce qu’est STAMPSDAQ",
+    "aboutBtn": "Télécharger"
+  }
+
+}

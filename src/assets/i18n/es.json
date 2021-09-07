@@ -1,0 +1,154 @@
+{
+    "header": {
+      "email": "Subscribe to receive NFT news",
+      "subscribeBtn": "Suscribirse",
+      "signUp": "Registrarse",
+      "logIn": "Iniciar sesión"
+    },
+    "footer": {
+      "logoText": "Miembro asociado de",
+      "link1": "Sobre nosotros",
+      "link2": "Documento técnico",
+      "link3": "Contactos"
+    },
+    "headBlock": {
+      "section": "PRÓXIMAMENTE...",
+      "headTitle": "FORME PARTE DEL LEGADO FILATÉLICO Y DEL PATRIMONIO ARTÍSTICO EN EL MUNDO DE LAS CRIPTOMONEDAS",
+      "headText": "SELLOS Y NFT: COLECCIONE, COMERCIE, COMPITA Y GANE PREMIOS"
+    },
+    "collectBlock": {
+      "section": "COLECCIONE",
+      "collectTitleFirst": "",
+      "collectTitleSecond": "DE SELLOS POSTALES Y ELEMENTOS ARTÍSTICOS TRADICIONALES PRODUCIDOS CON LICENCIA OFICIAL EN COLABORACIÓN CON DISTINTOS",
+      "collectTitleThird": "PARA CREAR OBRAS DE ARTE Y SELLOS CRIPTOGRÁFICOS DIGITALES",
+      "spanFirst": "VERSIONES EN CRIPTOARTE",
+      "spanSecond": "ARTISTAS Y DISEÑADORES DIGITALES",
+      "collectInfoFirst": "enamórese de las obras de arte animadas e interactivas de casi todos los sellos o artículos de arte que existen",
+      "collectInfoSecond": "coleccione NFT con licencia oficial",
+      "collectInfoThird": "comparta su pasión con la comunidad internacional de coleccionistas de sellos y arte NFT",
+      "collectInfoFourth": "apoye a sus artistas y creadores favoritos"
+    },
+    "digitalOwnershipBlock": {
+      "section":"AUTÉNTICA PROPIEDAD DIGITAL, AUTENTICIDAD Y EXCLUSIVIDAD",
+      "digitalOwnershipTitle":"TODOS LOS NFT ACUÑADOS EN STAMPDAQ SON DE",
+      "digitalOwnershipTitleSecond":"EDICIÓN LIMITADA EXCLUSIVA",
+      "digitalOwnershipSpan":"Y PRESENTAN UNA ESTRUCTURA ÚNICA EN 5 NIVELES"
+    },
+    "tradeBlock": {
+      "section": "COMERCIE",
+      "tradeTitleFirst": "DONDE",
+      "tradeTitleSecond": "SE UNE A LA CAPACIDAD Y EL DINAMISMO DE LAS",
+      "spanFirst": "LA PASIÓN POR EL COLECCIONISMO",
+      "spanSecond": "FUNCIONES COMERCIALES FINANCIERAS",
+      "tradeInfoFirst": "Auténtico algoritmo de asociación de precios que aumenta las probabilidades de éxito de una transacción",
+      "tradeInfoSecond": "Tarifas de transacciones flexibles y competitivas",
+      "tradeInfoThird": "Sin tasas de gas",
+      "tradeInfoFourth": "Transacciones sin complicaciones"
+    },
+    "playBlock": {
+      "section": "JUEGUE",
+      "playTitleFirst": "PARTICIPE EN LOS JUEGOS DE STAMPSDAQ, GANE",
+      "playTitleSecond": "Y SUBA SU ESTATUS",
+      "spanFirst": "PREMIOS EN LOS CONCURSOS",
+      "playInfoTitleFirst": "CONCURSOS DE COLECCIONISMO",
+      "playInfoTitleSecond": "TRIVIAL DE SELLOS",
+      "playInfoTitleThird": "CONCURSO DE COMERCIANTES",
+      "playInfoTitleFourth": "BATALLAS DE SELLOS",
+      "playInfoFirst": "Consiga que su colección sea la mejor y gane excelentes premios",
+      "playInfoSecond": "Ponga a prueba sus conocimientos para contestar preguntas de cultura general y conseguir premios",
+      "playInfoThird": "Negocie y conviértase en el mejor comerciante por volumen o beneficio",
+      "playInfoFourth": "Compita cara a cara contra otros coleccionistas para llegar a ser el mejor"
+    },
+    "earnBlock": {
+      "section": "GANE",
+      "earnTitleFirst": "CONSIGA",
+      "earnTitleSecond": "AL POSEER SELLOS Y PIEZAS DE ARTE NFT DE EXCEPCIONAL VALOR",
+      "spanFirst": "TPREMIOS EN TOKENS",
+      "earnText": "Busque e invierta en los mejores sellos y piezas de arte NFT para ganar premios",
+      "earnTextSmall": "en función de los siguientes criterios:",
+      "playEarnFirst": "nft más comercializado de forma activa",
+      "playEarnSecond": "el rendimiento económico de la administración postal y el país de emisión"
+    },
+    "banerBlock": {
+      "banerText": "STAMPSDAQ",
+      "is": "ES UNA",
+      "span": "CADENA DE BLOQUES"
+    },
+    "tokenImgBack": {
+      "tokenInfoFirst": "Utilizamos la cadena lateral de Ethereum como prueba de participación (en inglés, PoS) y tendemos un puente a la red principal de Ethereum",
+      "tokenInfoSecond": "El token de pago y de gas es el $POST, cuya estabilidad es de 1:1 en relación al DAI en la red principal de Ethereum",
+      "tokenInfoThird": "El segundo token, $STAMP, se utiliza para la protección del protocolo y la gestión",
+      "tokenInfoFourth": "Utilizamos un mercado y contratos inteligentes de NFT",
+      "tokenInfoFifth": "La cadena lateral está abierta a la participación y es compatible con la EVM (máquina virtual de Ethereum) y las herramientas de desarrollo común de Ethereum",
+      "tokenInfoSixth": "Los nodos siguen un consenso de red; para participar, se requiere una cantidad determinada de $STAMP",
+      "sectionSecond":"ESTRUCTURA DE TOKENS DE STAMPSDAQ",
+      "tokenTitle":"LA CADENA DE BLOQUES DE STAMPSDAQ UTILIZA DOS TIPOS DE TOKENS",
+      "tokenTextFirst":"token de criptomoneda diseñado para evitar la volatilidad del precio en relación con el dólar estadounidense y garantizar transacciones sencillas y económicas",
+      "tokenTextSecond":"token de criptomoneda utilizado para participar (validación de transacciones en STAMPSDAQ)"
+    },
+    "stakingBlock": {
+      "section": "PARTICIPACIÓN DE $STAMP",
+      "stakingTitleFirst": "LOS PROPIETARIOS DE TOKENS DE PARTICIPACIÓN $STAMP DE STAMPSDAQ PUEDEN BENEFICIARSE ENORMEMENTE DE LA ACTIVIDAD DE OPERACIÓN DE NODOS",
+      "stakingInfo1": "Cantidad total de tokens:",
+      "stakingInfo2": "Cantidad inicial de tokens:",
+      "stakingInfo3": "Plan de emisión continua de",
+      "stakingInfo4": "Cantidad de tokens acuñados al año:",
+      "stakingInfo5": "Colateral de nodo de consenso:",
+      "stakingInfo6": "Compensación por acuñar nodo de consenso - Cuota de acuñación anual durante los primeros",
+      "stakingInfo7": "Compensaciones por nodo de consenso - Cuota de",
+      "stakingInfo8": "ingresos por transacción",
+      "stakingInfo9": "NFT",
+      "year": "años"
+    },
+    "contactUsBlock": {
+      "contactUsTitle": "SUSCRÍBASE PARA MANTENERSE AL TANTO SOBRE LAS PRÓXIMAS VENTAS DE LA COMUNIDAD $STAMP",
+      "email": "E-mail",
+      "subscribe": "Suscribirse",
+      "contactUsText": "ESCRÍBANOS PARA RECIBIR MÁS INFORMACIÓN SOBRE LOS DETALLES DE PARTICIPACIÓN DE $STAMPS",
+      "contactUsBtn": "Contacto"
+    },
+    "partnersBlock": {
+      "section": "PARA NUESTROS SOCIOS DE CONTENIDO",
+      "partnersTitle": "ADMINISTRACIONES POSTALES, MUSEOS PÚBLICOS Y PRIVADOS Y ARTISTAS INDEPENDIENTES",
+      "partnersInfoSpan1": "Monetice",
+      "partnersInfoSpan2": "Atraiga",
+      "partnersInfoSpan3": "Promocione",
+      "partnersInfoSpan4": "Genere",
+      "partnersInfoSpan5": "Contacte",
+      "partnersInfoSpan6": "Aproveche",
+      "partnersInfoSpan7": "generan más beneficios",
+      "partnersInfoSpan8": "Influya positivamente",
+      "partnersInfoText1": "millones de sellos postales y piezas de arte únicas",
+      "partnersInfoText2": "el interés de los coleccionistas con la propuesta de valor de STAMPSDAQ para coleccionar, comerciar y jugar",
+      "partnersInfoText3": "a nivel internacional los valores culturales y filatélicos de cada país de forma innovadora",
+      "partnersInfoText4": "ingresos a partir de las ventas principales y secundarias",
+      "partnersInfoText5": "al instante y de forma rentable con una comunidad de coleccionistas NFT cada vez mayor",
+      "partnersInfoText6": "nuestro enfoque unificado de la cadena de bloques para obtener mayor liquidez en el mercado",
+      "partnersInfoText7": "Los sellos y el arte NFT se venden más rápido y",
+      "partnersInfoText8": "en las ventas de sellos y piezas de arte tradicionales"
+    },
+    "investorsBlock": {
+      "section": "PARA LOS INVERSORES",
+      "investorsTitle": "RECIBIMOS CON LOS BRAZOS ABIERTOS A LOS FONDOS DE CAPITAL DE RIESGO E INVERSORES PRIVADOS QUE BUSQUEN OPORTUNIDADES DE INVERSIÓN CON STAMPSDAQ",
+      "investorsBtn": "Contacto"
+    },
+    "flagBlock": {
+      "flagTitleFirst": "STAMPSDAQ.COM UNIFICA EL MERCADO DE CADENAS DE BLOQUES DE CRIPTOARTE Y FILATELIA PARA COMUNIDADES",
+      "flagTitleSecond": "",
+      "flagTitleSpan": "POSTALES Y CULTURALES"
+    },
+    "aboutUs": {
+        "aboutTitle": "ACERCA DE NOSOTROS",
+        "aboutText1": "STAMPSDAQ es una cadena lateral (sidechain) basada en la cadena de bloques Ethereum para crear, coleccionar, comerciar y jugar con",
+        "aboutText2": "De este modo, es posible reunir a las administraciones postales, los 'nuevos y viejos' coleccionistas de arte y sellos, y los aficionados a las criptomonedas de cualquier parte del mundo en un mercado de cadena de bloques seguro y unificado.",
+        "aboutText3": "Los usuarios de STAMPSDAQ pueden coleccionar, comerciar, ganar premios y jugar con los NFT emitidos por nuestra cadena de bloques, según una",
+        "aboutText4": "que permite maximizar la experiencia de usuario de STAMPSDAQ.",
+        "aboutText5": "Los miembros de la industria de las bellas artes y la filatelia podrán monetizar sus activos 'pasivos' de derechos de propiedad intelectual (DPI) gracias a la tecnología emergente de la cadena de bloques, tanto en los mercados principales como secundarios, mediante soluciones de contratos inteligentes automatizados que les garanticen regalías y otros beneficios del ecosistema de la cadena de bloques.",
+        "aboutTextColor1": "versiones seleccionadas de arte digital de sellos postales y artículos artísticos en forma de tokens NFT.",
+        "aboutTextColor2": "fórmula común de propuesta de valor",
+        "aboutTextBig": "Descargue nuestro documento técnico para conocer en qué consiste exactamente STAMPSDAQ",
+        "aboutBtn": "Descargar"
+      }
+  
+  }
+  

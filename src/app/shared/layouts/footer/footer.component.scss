@@ -1,0 +1,101 @@
+footer {
+  padding-top: 40px;
+  padding-bottom: 60px;
+  background: #090725;
+  color: #fff;
+  border: 0;
+  border-top: 1px solid #78F7FF;
+  border-image: linear-gradient(90deg, rgba(120,247,255,1) 8%, rgba(0,133,255,1) 37%, rgba(120,247,255,1) 73%);
+  border-image-slice: 1;
+  .footerTitle {
+      background: linear-gradient(102.33deg, #FC5410 2.24%, #F5D20F 103.29%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      font-family: Raleway;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 16px;
+      line-height: 19px;
+      text-align: justify;
+      text-transform: uppercase;
+  }
+
+  .postLogo {
+      width: 75px;
+      height: auto;
+      margin-left: 10px;
+  }
+
+  .footerBtn {
+      margin: 0 10px;
+      background: linear-gradient(102.33deg, #FC5410 2.24%, #F5D20F 103.29%);
+      border-radius: 4px;
+      font-family: Raleway;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 10px;
+      line-height: 12px;
+      text-transform: uppercase;
+      color: #FFFFFF;
+      padding: 0 35px;
+      border: none;
+      cursor:pointer;
+  }
+}
+
+.footerBlock {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footerLinks {
+  a {
+    color: #fff;
+  }
+}
+
+.associateMember {
+  padding: 15px;
+  background-color: white;
+  color: black;
+  border-radius: 30px;
+}
+
+@media screen and (max-width: 767px) {
+  .footerBlock {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .footerLogo {
+    margin: 20px 0;
+  }
+  .telegramm {
+    margin: 20px 0;
+  }
+}
+
+// @media screen and (max-width: 991px) {
+
+// }
+
+// @media screen and (max-width: 767px) {
+//   footer {
+//       height: auto;
+//   }
+//   .footerBlock {
+//       padding-top: 50px;
+//       padding-left: 0;
+//       padding-right: 0;
+//   }
+//   .telegramm {
+//       margin: 20px 0;
+//   }
+// }
+
+// @media screen and (max-width: 480px) {
+
+
+

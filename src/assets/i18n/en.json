@@ -1,0 +1,153 @@
+{
+  "header": {
+    "email": "Subscribe to receive NFT news",
+    "subscribeBtn": "Subscribe",
+    "signUp": "Sign Up",
+    "logIn": "Log In"
+  },
+  "footer": {
+    "logoText": "an Associate Member of",
+    "link1": "About",
+    "link2": "Whitepaper",
+    "link3": "Contacts"
+  },
+  "headBlock": {
+    "section": "Coming soon...",
+    "headTitle": "Become part of aGES OLD philatelic AND ART heritage in the crypto world",
+    "headText": "Stamps and art NFTs: collect, trade, compete and earn rewards"
+  },
+  "collectBlock": {
+    "section": "Collect",
+    "collectTitleFirst": "Officially licensed, curated",
+    "collectTitleSecond": "of traditional postage stamps & art motifs created in collaboration with A VARIeTY OF",
+    "collectTitleThird": "TO PRODUCE THE DIGITAL CRYPTO STAMPS AND ART MASTERPIECES",
+    "spanFirst": "Crypto Art Variations",
+    "spanSecond": "DIGITAL ARTISTS AND DESIGNERS",
+    "collectInfoFirst": "get passionate with live and interactive masterpieces of already existing stamp & art motifs",
+    "collectInfoSecond": "collect officially licensed NFTs",
+    "collectInfoThird": "share your enthusiasm with global community of NFT stamp & art collectors",
+    "collectInfoFourth": "support your favourite artists & creators"
+  },
+  "digitalOwnershipBlock": {
+    "section":"TRUE DIGITAL OWNERSHIP, AUTHENTICITY AND SCARCITY",
+    "digitalOwnershipTitle":"All NFTs minted on STAMPDAQ are",
+    "digitalOwnershipTitleSecond":"comprising 5-level scarcity structure",
+    "digitalOwnershipSpan":"Limited Edition only"
+  },
+  "tradeBlock": {
+    "section": "Trade",
+    "tradeTitleFirst": "where the",
+    "tradeTitleSecond": "meets the power and dynamics of Financial",
+    "spanFirst": "passion of COLLECTING",
+    "spanSecond": "Trading features",
+    "tradeInfoFirst": "Authentic Price Matching Algorithm increasing the probability of a successful transaction",
+    "tradeInfoSecond": "Competitive flexible transaction fees",
+    "tradeInfoThird": "No gas fee",
+    "tradeInfoFourth": "Seamless transaction execution"
+  },
+  "playBlock": {
+    "section": "Play",
+    "playTitleFirst": "Engage in STAMPSDAQ gaming and earn",
+    "playTitleSecond": "and status",
+    "spanFirst": "contest rewards",
+    "playInfoTitleFirst": "Collection’ Contests",
+    "playInfoTitleSecond": "Stamp Trivia Game",
+    "playInfoTitleThird": "Trader Contests",
+    "playInfoTitleFourth": "Stamp Battles",
+    "playInfoFirst": "Let your collection be the best and win the highest rewards",
+    "playInfoSecond": "Use your brainpower to answer intellectual questions and get rewarded",
+    "playInfoThird": "Trade and become the best trader by trading volume or profit",
+    "playInfoFourth": "Compete with other collectors 1 to 1 to be the ultimate winner"
+  },
+  "earnBlock": {
+    "section": "EARN",
+    "earnTitleFirst": "GET REGULAR",
+    "earnTitleSecond": "FROM OWNING HIGH PERFORMING NFT STAMPS AND ARTWORKS",
+    "spanFirst": "TOKEN REWARDS",
+    "earnText": "Scout and invest in best performing NFT stamps and artworks to get rewards",
+    "earnTextSmall": "based on the following criteria:",
+    "playEarnFirst": "most actively traded nfts",
+    "playEarnSecond": "the issuing country and postal administration’s economic performance"
+  },
+  "banerBlock": {
+    "banerText": "STAMPSDAQ",
+    "is": "is",
+    "span": "Blockchain"
+  },
+  "tokenImgBack": {
+    "tokenInfoFirst": "We use Proof of Stake ( PoS ) Ethereum decentralized sidechain, and create a bridge to Ethereum mainnet",
+    "tokenInfoSecond": "The gas and payment token is $POST and it is pegged 1:1 to DAI on the Ethereum mainnet",
+    "tokenInfoThird": "The second token $STAMP is used for protocol protection and governance",
+    "tokenInfoFourth": "We deploy NFT smart contracts and marketplace",
+    "tokenInfoFifth": "The sidechain is open to participation and compatible with EVM (Ethereum Virtual Machine) and common Ethereum development tools",
+    "tokenInfoSixth": "Network consensus is maintained by nodes; staking requires certain amount of $STAMP",
+    "sectionSecond":"STAMPSDAQ TOKEN STRUCTURE",
+    "tokenTitle":"STAMPSDAQ BLOCKCHAIN EMPLOYS DUAL TOKEN APPROACH",
+    "tokenTextFirst":"cryptocurrency token, designed to avoid the volatility of the price relative to the USD and secure seamless and cheap transactions",
+    "tokenTextSecond":"cryptocurrency token used for the staking (validation of transactions on STAMPSDAQ)"
+  },
+  "stakingBlock": {
+    "section": "$STAMP Staking",
+    "stakingTitleFirst": "Owners of STAMPSDAQ’s staking tokens $STAMP can greatly benefit from Node Operating activity",
+    "stakingInfo1": "Total number of tokens",
+    "stakingInfo2": "Initial number of tokens",
+    "stakingInfo3": "Emission schedule linear for",
+    "stakingInfo4": "Annual number of minted tokens",
+    "stakingInfo5": "Consensus node collateral",
+    "stakingInfo6": "Consensus node minting reward - Share of annual mint for first",
+    "stakingInfo7": "Consensus node rewards - Share of",
+    "stakingInfo8": "NFT",
+    "stakingInfo9": "transaction fee revenue",
+    "year": "years"
+  },
+  "contactUsBlock": {
+    "contactUsTitle": "Subscribe to receive exciting news and updates about forthcoming $STAMP Community Sale",
+    "email": "E-mail",
+    "subscribe": "Subscribe",
+    "contactUsText": "Write to us for more information on $STAMPS Staking details",
+    "contactUsBtn": "Contact us"
+  },
+  "partnersBlock": {
+    "section": "FOR OUR CONTENT PARTNERS",
+    "partnersTitle": "POSTAL ADMINISTRATIONS, PUBLIC & PRIVATE MUSEUMS AND INDEPENDENT ARTISTS",
+    "partnersInfoSpan1": "Monetize",
+    "partnersInfoSpan2": "Capture",
+    "partnersInfoSpan3": "Promote",
+    "partnersInfoSpan4": "Generate",
+    "partnersInfoSpan5": "Communicate",
+    "partnersInfoSpan6": "Capitalize",
+    "partnersInfoSpan7": "generate higher revenues",
+    "partnersInfoSpan8": "Influence positively",
+    "partnersInfoText1": "millions of unique postage stamps and art motifs",
+    "partnersInfoText2": "the collecting interest with STAMPSDAQ’s collecting, trading and gaming value proposition",
+    "partnersInfoText3": "globally each country’s philatelic and cultural values in an innovative way",
+    "partnersInfoText4": "revenue both from primary and secondary sales",
+    "partnersInfoText5": "instantly and cost-efficiently with rapidly expanding community of NFT collectors",
+    "partnersInfoText6": "on a united blockchain approach for higher market liquidity",
+    "partnersInfoText7": "NFT stamps and art sell faster and",
+    "partnersInfoText8": "the sales of traditional postage stamps and artworks"
+  },
+  "investorsBlock": {
+    "section": "For Investors",
+    "investorsTitle": "We welcome VC funds and business angels to discuss investment opportunities with STAMPSDAQ",
+    "investorsBtn": "Contact us"
+  },
+  "flagBlock": {
+    "flagTitleFirst": "STAMPSDAQ.COM UNITED CRYPTO PHILATELY & ART BLOKCHAIN MARKETPLACE FOR",
+    "flagTitleSecond": "COMMUNITIES",
+    "flagTitleSpan": "POSTAL AND CULTURAL"
+  },
+  "aboutUs": {
+    "aboutTitle": "ABOUT US",
+    "aboutText1": "STAMPSDAQ is an Ethereum-based blockchain’s sidechain for creating, collecting, trading and gaming of",
+    "aboutText2": "This could also bring together global Postal Administrations, alongside all “old and new'' stamp and art collectors and crypto enthusiasts on a secure Unified blockchain marketplace.",
+    "aboutText3": "Every STAMPSDAQ user can Collect, Trade, Earn Rewards and Play using the NFTs issued on our blockchain, under a",
+    "aboutText4": "which allows everyone to maximize the user-experience on STAMPSDAQ.",
+    "aboutText5": "Both Postal and Find Art industry players have the opportunity to monetize their Intellectual Property Rights (IPR) “sleeping” assets via emerging blockchain technology both on primary and secondary markets, through automated smart contracts solutions securing permanent royalties, and other benefits of the blockchain ecosystem.",
+    "aboutTextColor1": "curated digital art variations of existing postage stamps and artworks motifs as NFT tokens.",
+    "aboutTextColor2": "common value proposition formula",
+    "aboutTextBig": "Download our Whitepaper to get bigger picture of what STAMPSDAQ is about",
+    "aboutBtn": "Download"
+  }
+
+}

@@ -1,0 +1,16 @@
+.header {
+  background-color: #090725;
+  border: 0;
+  border-bottom: 1px solid #78f7ff;
+  -o-border-image: linear-gradient(90deg, #78f7ff 8%, #0085ff 37%, #78f7ff 73%);
+  border-image: linear-gradient(90deg, #78f7ff 8%, #0085ff 37%, #78f7ff 73%);
+  border-image-slice: 1;
+}
+
+.navbar-custom {
+  background-color: #090725;
+  height: 85px;
+  a {
+    color: #fff;
+  }
+}

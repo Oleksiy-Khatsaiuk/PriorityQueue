@@ -1,0 +1,69 @@
+.mainBlock {
+  display: flex;
+  background: #090725;
+  width: 100%;
+  height: 900px;
+  background-size: cover;
+  background-position: right;
+  background-repeat: no-repeat;
+  background-image: url("../../assets/img/token.svg");
+}
+
+.mainRow {
+  display: flex;
+  justify-content: space-around;
+}
+
+.mainContainer {
+  display: flex;
+  align-items: center;
+}
+
+.infoForm {
+  border: 1px solid #2819fd;
+  width: 400px;
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: -100px;
+
+  input {
+    height: 50px;
+    margin-bottom: 10px;
+    margin-top: 40px;
+    background-color: #090725;
+    opacity: 0.8;
+    color: #fff;
+  }
+
+  .infoBtn {
+    background: linear-gradient(102.33deg, #fc5410 2.24%, #f5d20f 103.29%);
+    color: #fff;
+    padding: 12px 30px;
+    border-radius: 10px;
+    border: none;
+    height: 50px;
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+
+  .infoBtn:disabled {
+    background: linear-gradient(102.33deg, #f5723e 2.24%, #ecd659 103.29%);
+  }
+
+  .infoBtn:hover {
+    background: linear-gradient(102.33deg, #f5d20f 2.24%, #fc5410 103.29%);
+  }
+}
+
+error {
+  color: #b92727;
+}
+
+@media screen and (max-width: 1199px) {
+  .mainColumn {
+    display: flex;
+    justify-content: center;
+  }
+
+}
