@@ -1,43 +1,36 @@
 <div class="mainBlock">
-  <div class="container mainContainer">
-    <!-- <div class="row mainRow"> -->
-      <div class="col-xl mainColumn">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 titleColumn">
+        <span class="title">Priority queue</span>
+        <img class="titleImg" src="../../assets/img/tree.png" alt="">
+      </div>
+      <div class="col-md-6 mainColumn">
         <form class="infoForm" [formGroup]="infoForm" (ngSubmit)="submitForm()">
+          <span class="bigText">
+            Register below your interest to participate in the public token sale.
+          </span>
           <div class="form-group">
             <input type="email" class="form-control" placeholder="Email*" [formControl]="email">
-            <!-- <error *ngIf="email.errors?.required">
-              This field cannot be empty.
-            </error> -->
-            <error *ngIf="email.errors?.pattern">
-              Enter correct email.
-            </error>
-            <!-- <error *ngIf="email.hasError('notTest')">
-              Please enter only english letters
-            </error> -->
           </div>
           <div class="form-group">
             <input type="text" class="form-control" placeholder="Full name*" [formControl]="name">
-            <error *ngIf="name.hasError('notTest')">
-              Please enter only english letters
-            </error>
           </div>
           <div class="form-group">
-            <input type="text" class="form-control" placeholder="Ethereum address*" [formControl]="address">
-            <error *ngIf="address.hasError('notTest')">
-              Please enter only english letters
-            </error>
+            <input type="text" class="form-control" placeholder="Ethereum address*" autocomplete="__away" [formControl]="address">
           </div>
           <div class="form-group">
             <input type="text" class="form-control" placeholder="Country of Residence*" [formControl]="country">
-            <error *ngIf="country.hasError('notTest')">
-              Please enter only english letters
-            </error>
           </div>
+
+          <span class="smallText">
+            Note: Residents of US and Canada, and UN-sanctioned countries are ineligible to participate in this whitelist and in the public sale.
+          </span>
 
           <button type="submit" class="infoBtn" [disabled]="!infoForm.valid">Submit</button>
         </form>
       </div>
-    <!-- </div> -->
+    </div>
   </div>
 </div>
 

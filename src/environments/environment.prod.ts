@@ -1,5 +1,6 @@
 export const environment = {
   production: true,
-  host: 'https://stampsdaq.com',
+  hostToken: 'https://token.stampsdaq.com',
+  host: 'https://stampsdaq.com'
 
 };

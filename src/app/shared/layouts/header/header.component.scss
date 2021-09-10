@@ -8,7 +8,8 @@
 }
 
 .navbar-custom {
-  background-color: #090725;
+  background: rgb(9,7,37);
+  background: linear-gradient(90deg, rgba(9,7,37,1) 0%, rgba(18,14,73,1) 50%, rgba(9,7,37,1) 100%);
   height: 85px;
   a {
     color: #fff;

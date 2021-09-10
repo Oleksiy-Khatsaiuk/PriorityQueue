@@ -9,6 +9,8 @@ import { ReactiveFormsModule } from '@angular/forms';
 import { HeaderComponent } from './shared/layouts/header/header.component';
 import { FooterComponent } from './shared/layouts/footer/footer.component';
 import { SharedModule } from './shared.module';
+import { CoreService } from './core/services/core.service';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -23,8 +25,9 @@ import { SharedModule } from './shared.module';
     NgbModule,
     ReactiveFormsModule,
     SharedModule.forRoot(),
+    HttpClientModule
   ],
-  providers: [],
+  providers: [CoreService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

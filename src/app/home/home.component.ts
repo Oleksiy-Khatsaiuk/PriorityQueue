@@ -1,5 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { AbstractControl, FormBuilder, FormGroup, Validators } from '@angular/forms';
+import { take } from 'rxjs/operators';
+import { CoreService } from '../core/services/core.service';
 
 @Component({
   selector: 'app-home',
@@ -9,19 +11,32 @@ import { AbstractControl, FormBuilder, FormGroup, Validators } from '@angular/fo
 export class HomeComponent implements OnInit {
   infoForm: FormGroup = this.fb.group({
     email: [[], [Validators.required, this.englishLetters, Validators.pattern("^([!#$%&'*+-/=?^_`{|}~a-zA-Z0-9](\\.[a-zA-Z0-9-])*){1,64}@[a-zA-Z0-9-]+(\\.[a-zA-Z0-9-]+)*(\\.[a-zA-Z]{2,4})$") ]],
-    name: [[], [Validators.required, this.englishLetters]],
+    name: [[], [Validators.required]],
     address: ['', [Validators.required, this.englishLetters]],
     country: [[], [Validators.required, this.englishLetters]],
   });
 
   constructor(
     private fb: FormBuilder,
+    private coreService: CoreService
   ) { }
 
   ngOnInit(): void {
   }
   submitForm() {
-    console.log(this.infoForm);
+    if (!this.infoForm.invalid) {
+      this.coreService
+        .sendInfo(this.infoForm.value)
+        .pipe(take(1))
+        .subscribe((res) => {
+          if (res.result === "ok") {
+            alert("Information has been sent");
+            this.infoForm.reset();
+          }
+        });
+    } else {
+      return;
+    }
   }
 
   englishLetters(control: AbstractControl) {
