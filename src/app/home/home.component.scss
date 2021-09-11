@@ -85,6 +85,18 @@
   }
 }
 
+.mat-form-field {
+  display: inline-block;
+  position: relative;
+  text-align: left;
+  height: 50px;
+  background: blue;
+  border: 1px solid;
+  border-radius: 4px;
+  background-color: #090725;
+  opacity: 0.8;
+}
+
 error {
   color: #b92727;
 }

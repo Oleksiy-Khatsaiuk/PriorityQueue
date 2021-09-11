@@ -1,3 +1,4 @@
+import { MatSelectCountryModule } from '@angular-material-extensions/select-country';
 import {ModuleWithProviders, NgModule} from '@angular/core';
 import { FormsModule, ReactiveFormsModule } from "@angular/forms";
 
@@ -5,6 +6,7 @@ import { FormsModule, ReactiveFormsModule } from "@angular/forms";
     imports: [
         ReactiveFormsModule,
         FormsModule,
+        MatSelectCountryModule,
     ],
     exports: [
         // TranslateModule,

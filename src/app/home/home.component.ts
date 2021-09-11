@@ -2,6 +2,15 @@ import { Component, OnInit } from '@angular/core';
 import { AbstractControl, FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { take } from 'rxjs/operators';
 import { CoreService } from '../core/services/core.service';
+import {Country} from '@angular-material-extensions/select-country';
+
+interface Country {
+  name: 'Germany',
+  alpha2Code: 'DE',
+  alpha3Code: 'DEU',
+  numericCode: '276',
+  callingCode: '+49'
+}
 
 @Component({
   selector: 'app-home',
@@ -38,6 +47,11 @@ export class HomeComponent implements OnInit {
       return;
     }
   }
+
+  onCountrySelected(country: Country) {
+    console.log(country);
+  }
+
 
   englishLetters(control: AbstractControl) {
     const regexStr1 = /^[A-Za-z0-9_!"#$%&'()*+,-./:;<=>?@[^_`{|}~\]\\]*$/;

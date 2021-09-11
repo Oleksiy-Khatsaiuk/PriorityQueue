@@ -20,7 +20,9 @@
             <input type="text" class="form-control" placeholder="Ethereum address*" autocomplete="__away" [formControl]="address">
           </div>
           <div class="form-group">
-            <input type="text" class="form-control" placeholder="Country of Residence*" [formControl]="country">
+            <mat-select-country appearance="outline" [itemsLoadSize]="5" [formControl]="country" (onCountrySelected)="onCountrySelected($event)">
+            </mat-select-country>
+            <!-- <input type="text" class="form-control" placeholder="Country of Residence*" [formControl]="country"> -->
           </div>
 
           <span class="smallText">

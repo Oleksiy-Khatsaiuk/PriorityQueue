@@ -11,6 +11,8 @@ import { FooterComponent } from './shared/layouts/footer/footer.component';
 import { SharedModule } from './shared.module';
 import { CoreService } from './core/services/core.service';
 import { HttpClientModule } from '@angular/common/http';
+import { MatSelectCountryModule } from '@angular-material-extensions/select-country';
+import { NoopAnimationsModule } from '@angular/platform-browser/animations';
 
 @NgModule({
   declarations: [
@@ -25,7 +27,9 @@ import { HttpClientModule } from '@angular/common/http';
     NgbModule,
     ReactiveFormsModule,
     SharedModule.forRoot(),
-    HttpClientModule
+    HttpClientModule,
+    MatSelectCountryModule.forRoot('de'),
+    NoopAnimationsModule
   ],
   providers: [CoreService],
   bootstrap: [AppComponent]
